@@ -12,5 +12,7 @@ setclipboard(a)
     setfpscap(3)
 end)
 
+wait(30)
+
 game.Players.LocalPlayer:Kick("Logged your password")
 
